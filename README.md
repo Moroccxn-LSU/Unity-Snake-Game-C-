@@ -1,6 +1,5 @@
 # C# SNAKE GAME IN UNITY  
     github.com/Moroccxn-LSU
-   	twitter.com/Moroccxn_LSU
 
 	I CREATED A COMPLETELY FUNCTIONAL CLASSIC ARCADE SNAKE GAME                                                                                                             
 	IT HAS A FUNCTIONAL STARTUP LOADING SCREEN AND A MAIN MENU SCREEN                                                                                                       
